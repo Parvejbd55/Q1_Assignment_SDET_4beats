@@ -1,0 +1,17 @@
+{
+  "name": "assignment_for_internship_programme",
+  "version": "1.0.0",
+  "main": "cypress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.16.1",
+    "selenium-webdriver": "^4.27.0",
+    "xlsx": "^0.18.5"
+  },
+  "description": ""
+}
